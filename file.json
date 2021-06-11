@@ -1,0 +1,35 @@
+[
+{	
+	"firstName" : "Shradha",
+	"lastName" : "Jadhav",
+	"age" : "22",
+	"address" : {"city" : "Bidar",
+				 "state": "Karnatka",
+				 "zip" : "585419",
+				 "phoneNo" : "6363069692",
+				 "email" : "shradhabj1827@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+},
+{
+	"firstName" : "Shruti",
+	"lastName" : "Jadhav",
+	"age" : "22",
+	"address" : {"city" : "Bidar",
+				"state": "Karnatka",
+				"zip" : "585420",
+				"phoneNo" : "6363069694",
+				"email" : "shruti@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+},
+{
+	"firstName" : "Bhakti",
+	"lastName" : "Bhure",
+	"age" : "22",
+	"address" : {"city" : "Humnabad",
+				"state": "Karnatka",
+				"zip" : "585421",
+				"phoneNo" : "6363069678",
+				"email" : "bhakti@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+}				
+]				 
